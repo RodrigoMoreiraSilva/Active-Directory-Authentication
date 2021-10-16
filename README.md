@@ -1,2 +1,2 @@
 # Active-Directory-Authentication
-Autenticação por AD usando LDAP
+API aspnet core de Autenticação por AD usando LDAP
