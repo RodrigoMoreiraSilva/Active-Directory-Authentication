@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xsig/TcDHEQWTuWaO060yTufgOIPB22hk2Nn2XlyxI1CDoQp+rkCq3+pEleWO5P98JpunVdUZ2HWXmxSbp/3VA==",
+  "dgSpecHash": "1DMeVH6u/BUxV2/B5yfaA7OAqgHHnhzjYz3z3taYxfVrNIg2am0zOn2dDebmbEtnqc2q78O+i3xNwlHPHSv2Ag==",
   "success": true,
   "projectFilePath": "C:\\Users\\rodri\\Documents\\Repositorios\\GIT\\Active-Directory-Authentication\\ADAuthentication\\ADAuthentication\\ADAuthentication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\novell.directory.ldap.netstandard\\3.6.0\\novell.directory.ldap.netstandard.3.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
