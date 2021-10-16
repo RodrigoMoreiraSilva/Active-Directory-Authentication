@@ -7,7 +7,7 @@ namespace ADAuthentication.Interfaces
 {
     public interface IAuthenticationService
     {
-        bool ValidateUser(string username, string password, string domainName = "");
-        void GetDefaultValues();
+        bool ValidateUser(string username, string password, string domainName);
+        //void GetDefaultValues();
     }
 }
